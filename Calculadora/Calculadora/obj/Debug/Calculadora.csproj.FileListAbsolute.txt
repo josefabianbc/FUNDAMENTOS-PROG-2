@@ -1,0 +1,10 @@
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\ITLA\Fundamentos-de-programacion-2\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
