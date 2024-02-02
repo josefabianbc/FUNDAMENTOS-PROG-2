@@ -1,0 +1,15 @@
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\bin\Debug\net8.0\JuegoElAhorcado.exe
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\bin\Debug\net8.0\JuegoElAhorcado.deps.json
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\bin\Debug\net8.0\JuegoElAhorcado.runtimeconfig.json
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\bin\Debug\net8.0\JuegoElAhorcado.dll
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\bin\Debug\net8.0\JuegoElAhorcado.pdb
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.AssemblyInfoInputs.cache
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.AssemblyInfo.cs
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.csproj.CoreCompileInputs.cache
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.sourcelink.json
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.dll
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\refint\JuegoElAhorcado.dll
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.pdb
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\JuegoElAhorcado.genruntimeconfig.cache
+D:\ITLA\Fundamentos-de-programacion-2\JuegoElAhorcado\JuegoElAhorcado\obj\Debug\net8.0\ref\JuegoElAhorcado.dll
