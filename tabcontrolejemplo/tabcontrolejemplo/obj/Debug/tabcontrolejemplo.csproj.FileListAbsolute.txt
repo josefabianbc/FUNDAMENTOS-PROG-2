@@ -1,0 +1,10 @@
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\bin\Debug\tabcontrolejemplo.exe.config
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\bin\Debug\tabcontrolejemplo.exe
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\bin\Debug\tabcontrolejemplo.pdb
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.csproj.AssemblyReference.cache
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.Form1.resources
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.Properties.Resources.resources
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.csproj.GenerateResource.cache
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.csproj.CoreCompileInputs.cache
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.exe
+D:\ITLA\Fundamentos-de-programacion-2\tabcontrolejemplo\tabcontrolejemplo\obj\Debug\tabcontrolejemplo.pdb

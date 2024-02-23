@@ -1,0 +1,10 @@
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\bin\Debug\Programasplitcontainer.exe.config
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\bin\Debug\Programasplitcontainer.exe
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\bin\Debug\Programasplitcontainer.pdb
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.csproj.AssemblyReference.cache
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.Form1.resources
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.Properties.Resources.resources
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.csproj.GenerateResource.cache
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.csproj.CoreCompileInputs.cache
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.exe
+D:\ITLA\Fundamentos-de-programacion-2\Programasplitcontainer\Programasplitcontainer\obj\Debug\Programasplitcontainer.pdb
